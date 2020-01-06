@@ -1,0 +1,41 @@
+.headerAdjust {
+    display: flex;
+    flex-direction: column;
+    color: "white";
+    align-items: center;
+    background-color: #6495ed;
+    color: white;
+    font-family: "Open Sans";
+    justify-content:  center;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-color: black;
+}
+
+.square{
+    width: 30%;
+    background-color: blueviolet;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+}
+
+#container{
+   max-width: 600px ;
+   margin: auto;
+}
+
+h1{
+    color: white;
+}
+
+#rgbII{
+    color: white;
+}
